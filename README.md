@@ -19,5 +19,5 @@ If we calculate AOV by dividing total sum of ‘order_amount’ by ‘total_item
 To determine the correct Average Order Value (AOV), the reporting metrics are the respective sums of both 'order_amount' and 'total_items':
 AOV= df['order_amount'].sum()/df['total_items'].sum()\
 
-3.	What is its value?
+3.What is its value?\
 The Average order Value is 357.922.
