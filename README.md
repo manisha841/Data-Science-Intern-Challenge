@@ -5,7 +5,7 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 Solution: 
 After applying Describe method to our Data Frame of given data, average order amount was $3145.128 which is taken by Shopify as a final answer to AOV. Simply the average is calculated as:
 
-Average=Sum of observations/total number of observations
+     Average=Sum of observations/total number of observations
 
 This formula will be applied by Describe function which calculates the AOV by dividing the total sum of ‘order_amount’ by number of observations/rows present in the ‘order_amount’ column, however AOV is calculated as:
 
