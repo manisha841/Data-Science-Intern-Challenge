@@ -8,11 +8,11 @@ After applying Describe method to our Data Frame of given data, average order am
 
        > Average=Sum of observations/total number of observations
 
-This formula will be applied by Describe function which calculates the AOV by dividing the total sum of ‘order_amount’ by number of observations/rows present in the ‘order_amount’ column, however AOV is calculated as:
+This formula will be applied by Describe function which calculates the AOV by dividing the total sum of ‘order_amount’ by number of observations or rows present in the ‘order_amount’ column, however AOV is calculated as:
 
 	> Average Order Amount=Total Order Amount/Sum of total items
 
-If we calculate AOV by dividing total sum of ‘order_amount’ by ‘total_items’, we can correctly evaluate this date.\
+If we calculate AOV by dividing total sum of ‘order_amount’ by ‘total_items’, we can correctly evaluate this data.\
 
 2.What metric would you report for this dataset?
 
@@ -20,10 +20,10 @@ To determine the correct Average Order Value (AOV), the reporting metrics are th
 AOV= df['order_amount'].sum()/df['total_items'].sum()\
 
 3.What is its value?\
-The Average order Value is 357.922.\\\\
+The Average order Value is 357.922.\
 
 **Question 2**\
-For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.\\\
+For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.\
 1.How many orders were shipped by Speedy Express in total?\
 Answer:54 Orders were shipped by Speedy Express in total.\
 
