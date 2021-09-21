@@ -31,7 +31,7 @@ Answer:54 Orders were shipped by Speedy Express in total.\
 Answer:Peacock is the last name of the employee with the most orders.\
 
 3.What product was ordered the most by customers in Germany?\
-Answer:
+Answer: Outback Lager was ordered the most by customers in Germany.
 
 
 
