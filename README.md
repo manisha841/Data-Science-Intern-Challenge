@@ -24,7 +24,7 @@ The Average order Value is 357.922.\\\\
 
 **Question 2**\
 For this question you’ll need to use SQL. Follow this link to access the data set required for the challenge. Please use queries to answer the following questions. Paste your queries along with your final numerical answers below.\
-1.How many orders were shipped by Speedy Express in total?
+1.How many orders were shipped by Speedy Express in total?\
 Answer:54 Orders were shipped by Speedy Express in total.\
 
 2.What is the last name of the employee with the most orders?\
